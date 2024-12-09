@@ -1,0 +1,20 @@
+html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Google</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Google_logo_2015.svg/1024px-Google_logo_2015.svg.png" alt="Google Logo" class="logo">
+        <input type="text" class="search-bar" placeholder="Search Google or type a URL">
+        <div class="buttons">
+            <button class="btn">Google Search</button>
+            <button class="btn">I'm Feeling Lucky</button>
+        </div>
+    </div>
+</body>
+</html>
